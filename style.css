@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+}
+.main {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+input {
+  padding: 5px;
+  border: 2px solid black;
+}
+.result {
+  margin-top: 50px;
+}
+.btn {
+  margin-top: 50px;
+}
